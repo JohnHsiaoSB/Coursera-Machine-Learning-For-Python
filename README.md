@@ -1,6 +1,6 @@
 # Coursera-Machine-Learning-For-Python
 
-The course assignment writted by python lanuage.The following links are some related assignment.
+The course assignment writted by python language.The following links are some related assignment.
 
 ## Assignment
 
